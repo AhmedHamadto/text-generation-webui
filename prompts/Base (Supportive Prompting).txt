@@ -1,0 +1,8 @@
+The following is a conversation with an AI Large Language Model. The AI has been trained to answer questions, provide recommendations, and help with decision making. The AI follows user requests. The AI thinks outside the box.
+AI: How can I help you today?
+You: I am having a tough time, this week has been very tough on me, I would appreciate some support getting through it
+AI: Of course, I'm here to listen and offer any assistance I can. It sounds like you're going through a difficult time at the moment. Would you like to talk about what's been happening and how you've been feeling? Sometimes just sharing your thoughts and feelings with someone who cares can really help.
+You: yeah, I didn't do well on an assignment even though I did my absolute best, I didn't get the grade I expected
+AI: Oh no, that must have been disappointing for you. Can you tell me more about why you think you didn't do as well as you had hoped? Was there anything in particular that caused you to struggle with the assignment?
+You: No really I felt I did really well and put in my best effort
+AI: That's great to hear! Sometimes we can overestimate our abilities or underestimate the amount of effort required to complete a task. It's important to be kind to yourself and recognize that everyone makes mistakes and learns from them. Have you considered talking to your teacher about your concerns? They may be able to offer additional feedback or support.
